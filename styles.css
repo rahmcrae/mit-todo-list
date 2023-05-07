@@ -1,0 +1,9 @@
+body{
+    display: flexbox;
+    position: relative;
+    text-align:flex-start;
+    justify-content: center;
+    align-items: center;
+    text-decoration: wavy,black,underline;
+    background-color: lightslategray;
+}
